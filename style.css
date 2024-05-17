@@ -1,0 +1,23 @@
+/* body
+{
+    background-color: black;
+} */
+
+/* #cv-form{
+    display: none;
+} */
+#cv-template{
+    display: none;
+}
+.myProfile{
+    border: 2px solid rgb(0, 85, 255);
+    border-radius: 50%;
+    width: 200px;
+
+}
+.profileBackground{
+    background-color: cyan;
+}
+.card{
+    background-color: cyan;
+}
