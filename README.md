@@ -13,4 +13,4 @@ Usage
 Open the application in your web browser.
 Enter your personal details, education, work experience, skills, and other relevant information in the provided fields.
 Preview your resume in real-time.
-Download the generated resume as a PDF by clicking the "Download" button.
+Download the generated resume as a PDF by clicking the "Print CV" button.
